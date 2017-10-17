@@ -1,0 +1,150 @@
+.header {
+  width: 100%;
+  height: 1rem; }
+  .header img {
+    width: 2.14rem;
+    height: 0.68rem;
+    margin-left: 0.18rem;
+    margin-top: 0.16rem; }
+  .header .toubu {
+    width: 1.5rem;
+    height: 1rem;
+    float: right;
+    font-size: 0; }
+    .header .toubu .a-1 {
+      float: left; }
+      .header .toubu .a-1 .span1 {
+        font-size: 0.45rem;
+        margin-left: 0.2rem;
+        line-height: 0.7rem; }
+      .header .toubu .a-1 p {
+        font-size: 0.22rem;
+        margin-left: 0.2rem; }
+    .header .toubu .a-2 {
+      float: left; }
+      .header .toubu .a-2 .span2 {
+        font-size: 0.33rem;
+        margin-left: 0.2rem;
+        line-height: 0.7rem; }
+      .header .toubu .a-2 p {
+        font-size: 0.22rem;
+        margin-left: 0.2rem; }
+
+.lunbo {
+  font-size: 0; }
+  .lunbo img {
+    width: 100%; }
+
+.ass {
+  width: 100%;
+  height: 4.6rem;
+  border-bottom: 0.18rem #f4f4f4 solid; }
+  .ass li {
+    width: 25%;
+    height: 50%;
+    float: left; }
+    .ass li .a-ass img {
+      width: 1.2rem;
+      height: 1.2rem;
+      margin-top: 0.36rem;
+      margin-left: 0.35rem; }
+    .ass li .a-ass p {
+      width: 100%;
+      height: 0.3rem;
+      overflow: hidden;
+      font-size: 0.28rem;
+      color: #333;
+      text-align: center;
+      margin-top: 0.12rem; }
+
+.ad {
+  width: 7.14rem;
+  height: 6.3rem;
+  border-bottom: 0.18rem #f4f4f4 solid;
+  margin-left: 0.18rem; }
+  .ad .ad-a {
+    width: 100%;
+    height: 1.06rem; }
+    .ad .ad-a .ad-span-a {
+      width: 0.05rem;
+      height: 0.42rem;
+      background: #37c993;
+      float: left;
+      margin-top: 0.32rem; }
+    .ad .ad-a .ad-span-b {
+      float: left;
+      font-size: 0.36rem;
+      color: #000;
+      margin-left: 0.13rem;
+      line-height: 1.06rem; }
+    .ad .ad-a .ad-span-c {
+      float: left;
+      font-size: 0.24rem;
+      color: #999;
+      margin-left: 0.2rem;
+      margin-top: 0.45rem; }
+  .ad .ad-b img {
+    width: 100%; }
+  .ad .ad-c {
+    width: 100%;
+    height: 0.36rem;
+    border: 1px red solid;
+    margin-top: 0.36rem; }
+    .ad .ad-c .ad-li-a {
+      width: 3rem;
+      height: 0.36rem;
+      font-size: 0;
+      float: left;
+      margin-right: 0.2rem; }
+      .ad .ad-c .ad-li-a .a-ad .icon-zero {
+        font-size: 0.36rem;
+        float: left;
+        color: #39c893;
+        margin-right: 0.12rem; }
+      .ad .ad-c .ad-li-a .a-ad p {
+        width: 75%;
+        height: 0.36rem;
+        overflow: hidden;
+        font-size: 0.28rem;
+        line-height: 0.36rem;
+        color: #333;
+        float: left; }
+    .ad .ad-c .ad-li-b {
+      width: 2.5rem;
+      height: 0.36rem;
+      font-size: 0;
+      float: left;
+      margin-right: 0.2rem; }
+      .ad .ad-c .ad-li-b .a-ad .icon-protection-fill {
+        font-size: 0.36rem;
+        float: left;
+        color: #39c893;
+        margin-right: 0.12rem; }
+      .ad .ad-c .ad-li-b .a-ad p {
+        width: 75%;
+        height: 0.36rem;
+        overflow: hidden;
+        font-size: 0.28rem;
+        line-height: 0.36rem;
+        color: #333;
+        float: left; }
+    .ad .ad-c .ad-li-c {
+      width: 1.5rem;
+      height: 0.36rem;
+      font-size: 0;
+      float: left; }
+      .ad .ad-c .ad-li-c .a-ad .icon-price {
+        font-size: 0.36rem;
+        float: left;
+        color: #39c893;
+        margin-right: 0.12rem; }
+      .ad .ad-c .ad-li-c .a-ad p {
+        width: 75%;
+        height: 0.36rem;
+        overflow: hidden;
+        font-size: 0.28rem;
+        line-height: 0.36rem;
+        color: #333;
+        float: left; }
+
+/*# sourceMappingURL=index.css.map */
